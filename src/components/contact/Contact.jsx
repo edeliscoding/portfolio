@@ -52,9 +52,9 @@ const Contact = () => {
               </a>
             </div>
             <div className="c-info-item">
-              <a href="www.linkedin.com/in/edelreich">
+              <a href="https://www.linkedin.com/in/edelreich/">
                 <img className="c-icon" src={Linkedin} alt="" />
-                https://www.linkedin.com/in/edelreich
+                https://www.linkedin.com/in/edelreich/
               </a>
             </div>
           </div>

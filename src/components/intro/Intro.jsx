@@ -18,8 +18,9 @@ const Intro = () => {
           </div>
           <p className="i-desc">
             I'm a web developer specializing in <b>Drupal</b> for the University
-            of Colorado. I create websites and web applications. Check out my
-            portfolio below to see projects that might interest you.
+            of Colorado. I create websites and web applications using latest
+            technologies like React and NextJs. Check out my portfolio below to
+            see projects that might interest you.
           </p>
         </div>
         <svg

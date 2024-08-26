@@ -7,18 +7,20 @@ import moviehub from "../../img/moviehub.png";
 import venue from "../../img/venue.png";
 import natour from "../../img/natour.png";
 import amazon from "../../img/amazon.png";
+import dashboard from "../../img/nextjs-employee.png";
+import david from "../../img/david.png";
 
 const ProductList = () => {
   const products = [
     {
       id: 1,
-      img: photogram,
-      link: "https://iphotogram.netlify.app",
+      img: david,
+      link: "https://fitness-consultant.vercel.app/",
     },
     {
       id: 2,
-      img: myblog,
-      link: "https://edelblog.herokuapp.com/",
+      img: dashboard,
+      link: "https://employee-mgt.vercel.app/",
     },
     {
       id: 3,

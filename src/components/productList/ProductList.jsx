@@ -8,14 +8,14 @@ import venue from "../../img/venue.png";
 import natour from "../../img/natour.png";
 import amazon from "../../img/amazon.png";
 import dashboard from "../../img/nextjs-employee.png";
-import david from "../../img/david.png";
+import admin_dashboard from "../../img/admin-dashboard-mern.png";
 
 const ProductList = () => {
   const products = [
     {
       id: 1,
-      img: david,
-      link: "https://fitness-consultant.vercel.app/",
+      img: admin_dashboard,
+      link: "https://admin-frontend-d2zd.onrender.com/dashboard",
     },
     {
       id: 2,

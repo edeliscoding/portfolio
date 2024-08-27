@@ -13,7 +13,7 @@ const ProductList = () => {
     {
       id: 1,
       img: admin_dashboard,
-      link: "https://admin-frontend-d2zd.onrender.com/dashboard",
+      link: "https://admin-frontend-d2zd.onrender.com/",
     },
     {
       id: 2,

@@ -1,6 +1,5 @@
 import "./about.css";
 import Award from "../../img/certfication.jpg";
-import figmaDesign from "../../img/fashiondesign.png";
 
 import Progress from "./Progress";
 

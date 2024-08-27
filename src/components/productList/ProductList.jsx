@@ -1,8 +1,6 @@
 import "./productList.css";
 import Product from "../product/Product";
-// import { products } from "../../data";
-import photogram from "../../img/Photogram.png";
-import myblog from "../../img/MyBlog.png";
+
 import moviehub from "../../img/moviehub.png";
 import venue from "../../img/venue.png";
 import natour from "../../img/natour.png";

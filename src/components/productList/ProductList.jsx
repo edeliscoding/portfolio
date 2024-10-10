@@ -2,12 +2,12 @@ import "./productList.css";
 import Product from "../product/Product";
 
 import moviehub from "../../img/moviehub.png";
-import venue from "../../img/venue.png";
+
 import natour from "../../img/natour.png";
-import amazon from "../../img/amazon.png";
+
 import dashboard from "../../img/nextjs-employee.png";
 import admin_dashboard from "../../img/admin-dashboard-mern.png";
-import ai_image_alttextgenerator from "../../img/ai-imagealtgen-app.png";
+import ai_image_alttextgenerator from "../../img/AI-imagealtgen-app.png";
 import jobfinder_app from "../../img/jobfinder-app.png";
 import excel_to_csv_and_table_converter from "../../img/exceltomuitable-app.png";
 import codeshare from "../../img/codesnippet-app.png";

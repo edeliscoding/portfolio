@@ -11,6 +11,7 @@ import ai_image_alttextgenerator from "../../img/ai-imagealtgen-app.png";
 import jobfinder_app from "../../img/jobfinder-app.png";
 import excel_to_csv_and_table_converter from "../../img/exceltomuitable-app.png";
 import codeshare from "../../img/codesnippet-app.png";
+import medical_us_mapping from "../../img/medicalmap-app.png";
 
 const ProductList = () => {
   const products = [

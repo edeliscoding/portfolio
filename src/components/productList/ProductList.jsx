@@ -67,9 +67,10 @@ const ProductList = () => {
       <div className="pl-texts">
         <h1 className="pl-title">Check out my projects!</h1>
         <p className="pl-desc">
-          Technologies used in my projects include React, Express, MongoDB,
-          Redux, Firebase, SQL, Node, Material-UI, SASS, Photoshop, GIT,
-          Bootstrap, WordPress, PhP, and many more.
+          Technologies used in my projects include React, Next, Drupal, SQL,
+          Node, Express, MongoDB, PostgreSQL,Tailwind, Redux, Firebase,
+          Supabase, Pantheon, Material-UI, Adobe Products, GIT, WordPress, PHP,
+          AI and many more.
         </p>
       </div>
       <div className="pl-list">
